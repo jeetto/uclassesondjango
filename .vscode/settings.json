@@ -3,6 +3,10 @@
         "**/env": true,
         "**/.gitignore": true,
         "**/trash": true,
-        "**/requirements.txt": true
+        "**/requirements.txt": true,
+        "**/.vscode": true,
+        "**/data": true,
+        "README.md": true,
+        "mainApp.py": true
     }
 }
